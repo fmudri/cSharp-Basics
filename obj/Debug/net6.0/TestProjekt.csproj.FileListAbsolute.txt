@@ -1,0 +1,5 @@
+D:\c#\TestProjekt\obj\Debug\net6.0\TestProjekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TestProjekt\obj\Debug\net6.0\TestProjekt.AssemblyInfoInputs.cache
+D:\c#\TestProjekt\obj\Debug\net6.0\TestProjekt.AssemblyInfo.cs
+D:\c#\TestProjekt\obj\Debug\net6.0\TestProjekt.csproj.CoreCompileInputs.cache
+D:\c#\TestProjekt\obj\Debug\net6.0\TestProjekt.sourcelink.json
